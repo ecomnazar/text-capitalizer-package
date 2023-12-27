@@ -1,6 +1,6 @@
 {
   "name": "text-capitalizer-package",
-      "version": "1.0.0",                     
+      "version": "1.0.1",                     
       "type": "module",
       "source": "src/index.js",            
       "main": "dist/index.js",
