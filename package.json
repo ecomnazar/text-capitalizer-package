@@ -1,5 +1,5 @@
 {
-  "name": "capitalizefirstletterofastringpkg",
+  "name": "text-capitalizer-package",
       "version": "1.0.0",                     
       "type": "module",
       "source": "src/index.js",            
